@@ -1,11 +1,11 @@
 ### Hey everyone, I'm Shiloh! 👋
 
-## I'm a Son (middle child without the syndrome), Father, & a Data Scientest!
+## I'm a Son (middle child without the syndrome), Father, & a Data Scientist!
 
-- 🔭 I’m currently working @ WarnerMedia as a Jr. Data Scientest!
+- 🔭 I’m currently working @ GAF as a Sr. Data Scientist!
 - 🌱 I’m currently trying to learn everything
-- 👯 I’m looking to collaborate with awesome Data Scientest, Engineers & Researchers  
-- 🥅 2020 Goals: Contribute more to data science projects
+- 👯 I’m looking to collaborate with awesome Data Scientist, Engineers & Researchers  
+- 🥅 2022 Goals: Contribute more to data science projects
 - ⚡ Fun fact: I'm obsessed with anime & walks by waterfronts 
 
 
